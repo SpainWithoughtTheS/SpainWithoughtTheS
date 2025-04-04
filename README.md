@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm SpainWithoughtTheS</h1>
-<h3 align="center">Just a dude that likes to mess with computers</h3>
+<h1 align="center" style="color: #f1c232; font-family: 'Arial', sans-serif;">Hi 👋, I'm SpainWithoughtTheS</h1>
+<h3 align="center" style="color: #f1c232;">Just a dude that likes to mess with computers</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=spainwithoughtthes&label=Profile%20views&color=0e75b6&style=flat" alt="spainwithoughtthes" />
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=spainwithoughtthes" alt="spainwithoughtthes" />
+    <img src="https://github-profile-trophy.vercel.app/?username=spainwithoughtthes&theme=onestar&title=Repositories,Followers,Commits&margin-w=10&margin-h=10&column=4" alt="spainwithoughtthes" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@ I'm currently working on [JavaFX powered insurance portfolio generator](https://
 
 ## 💬 Connect with Me
 
-Let's connect and talk tech!
+Let's connect and talk tech! 🔥
 
 <p align="center">
   <a href="https://www.linkedin.com/in/spainwithoughtthes/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -90,4 +90,4 @@ Here are some of my featured projects:
 
 ---
 
-<h3 align="center">Thanks for visiting! 🙏</h3>
+<h3 align="center" style="color: #f1c232;">Thanks for visiting! 🙏</h3>
